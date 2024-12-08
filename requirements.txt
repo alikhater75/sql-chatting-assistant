@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchainhub
+langgraph
+langchain-openai
+python-dotenv
+sqlalchemy
+pandas
+matplotlib
+numpy
+pymongo
+openai
